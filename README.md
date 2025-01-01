@@ -5,10 +5,26 @@
 
 ## 目录
 
+- [日语输入法](#japanese_input)
 - [一般用语](#general)
 - [关于个数](#number)
 - [关于月份](#month)
 - [关于日期](#date)
+
+<br />
+
+<a name="japanese_input" id="japanese_input"></a>
+# 日语输入法
+
+- ち（ti / chi）
+- ぢ（di）
+- つ（tu / tsu）
+- づ（du）
+- ゔ、ヴ（vu）
+- ゐ、ヰ（wyi）
+- ゑ、ヱ（wye）
+- ディ（dexi）
+- ヴィ（vi / vuxi）
 
 <br />
 
