@@ -14,7 +14,7 @@
 <br />
 
 <a name="japanese_input" id="japanese_input"></a>
-# 日语输入法
+## 日语输入法
 
 - ち（ti / chi）
 - ぢ（di）
